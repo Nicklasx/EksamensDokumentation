@@ -66,6 +66,8 @@ namespace examProject
             //over ordnet loop
             while (game)
             {
+                //loop til startet af spillet
+                //tager fra velkomst til efter dit svar
                 while (beginGame)
                 {
                     //clear console
@@ -94,12 +96,14 @@ namespace examProject
                             Console.WriteLine("Then why did you start?");
                             Console.ReadKey();
                             return;
-                        } else
+                        }
+                        else
                         {
                             Console.WriteLine("Thats not an option");
                             Thread.Sleep(1000);
                         }
                     }
+                    //catch hvis det du har svaret ikke er en gyldig svar mulighed
                     catch
                     {
                         Console.WriteLine("That was not an option");
@@ -113,6 +117,7 @@ namespace examProject
                     Console.WriteLine(questions[0]);
                     Console.WriteLine(answers[0]);
                     Console.Write(firstQuestion.answerBox);
+
                     try
                     {
 
@@ -143,6 +148,7 @@ namespace examProject
                     Console.WriteLine(questions[1]);
                     Console.WriteLine(answers[1]);
                     Console.Write(firstQuestion.answerBox);
+
                     try
                     {
                         int secondAnswer = int.Parse(Console.ReadLine().ToLower().Trim());
@@ -228,13 +234,16 @@ namespace examProject
                 }
             }
         }
-                public class Question
-                {
-                    public string questionText;
-                    public string answers;
-                    public string answerBox;
-                    public string rightAnswer;
-                    public string wrongAnswer;
-                }
+        /// <summary>
+        /// Dette er min class som er lavet så jeg bare kan kalde dem og give dem den value de skal have
+        /// </summary>
+        public class Question
+        {
+            public string questionText;
+            public string answers;
+            public string answerBox;
+            public string rightAnswer;
+            public string wrongAnswer;
+        }
     }
 }
