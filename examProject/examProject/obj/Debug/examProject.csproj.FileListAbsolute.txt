@@ -1,0 +1,7 @@
+C:\Users\Bruger\source\repos\examProject\examProject\obj\Debug\examProject.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\source\repos\examProject\examProject\obj\Debug\examProject.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\examProject\examProject\bin\Debug\examProject.exe.config
+C:\Users\Bruger\source\repos\examProject\examProject\bin\Debug\examProject.exe
+C:\Users\Bruger\source\repos\examProject\examProject\bin\Debug\examProject.pdb
+C:\Users\Bruger\source\repos\examProject\examProject\obj\Debug\examProject.exe
+C:\Users\Bruger\source\repos\examProject\examProject\obj\Debug\examProject.pdb
