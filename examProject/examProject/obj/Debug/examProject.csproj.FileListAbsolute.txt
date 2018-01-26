@@ -12,3 +12,10 @@ C:\Users\Bruger\Documents\EksamensDokumentation\examProject\examProject\obj\Debu
 C:\Users\Bruger\Documents\EksamensDokumentation\examProject\examProject\obj\Debug\examProject.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Documents\EksamensDokumentation\examProject\examProject\obj\Debug\examProject.exe
 C:\Users\Bruger\Documents\EksamensDokumentation\examProject\examProject\obj\Debug\examProject.pdb
+H:\git_rep\h1\examProject\examProject\bin\Debug\examProject.exe.config
+H:\git_rep\h1\examProject\examProject\bin\Debug\examProject.exe
+H:\git_rep\h1\examProject\examProject\bin\Debug\examProject.pdb
+H:\git_rep\h1\examProject\examProject\obj\Debug\examProject.csprojResolveAssemblyReference.cache
+H:\git_rep\h1\examProject\examProject\obj\Debug\examProject.csproj.CoreCompileInputs.cache
+H:\git_rep\h1\examProject\examProject\obj\Debug\examProject.exe
+H:\git_rep\h1\examProject\examProject\obj\Debug\examProject.pdb
